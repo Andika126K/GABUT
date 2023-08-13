@@ -1,1 +1,1 @@
-# gaguna
+ SCRIPT GABUT BY : Andika
