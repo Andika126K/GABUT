@@ -24,8 +24,7 @@ clear
             echo $pur"  ╦ ╦╔╗╔╔═╗╔═╗╔═╗╔╦╗╔═╗╦ ╦   "      
             echo $pur"  ║ ║║║║╠╣ ╠═╣║╣  ║║╠═╣╠═╣"
             echo $pur"  ╚═╝╝╚╝╚  ╩ ╩╚═╝═╩╝╩ ╩╩ ╩"
-            echo $mer"  ×××Tool Unfaedah | MiSetya××× $st"
-
+            echo $mer"  ×××Tools Andika | $st"
 lagi=1
 while [ $lagi -lt 6 ];
 do
